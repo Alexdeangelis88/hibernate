@@ -1,0 +1,11 @@
+it\fincons\hibernate\dao\DipendenteDao.class
+it\fincons\hibernate\dao\SedeDao.class
+it\fincons\hibernate\dao\Util.class
+it\fincons\hibernate\dao\TimbraturaDao.class
+it\fincons\academy\services\TimbraturaService.class
+it\fincons\academy\services\DipendenteService.class
+it\fincons\academy\services\SedeService.class
+it\fincons\academy\model\Sede.class
+it\fincons\academy\model\Dipendente.class
+it\fincons\academy\MavenHibernate\App.class
+it\fincons\academy\model\Timbratura.class

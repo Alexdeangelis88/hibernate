@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="DESKTOP-2IB73M1" name="it.fincons.academy.MavenHibernate.InsertTest" skipped="0" tests="2" time="3.297" timestamp="2017-10-10T15:15:20">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="env.USERDOMAIN_ROAMINGPROFILE" value="DESKTOP-2IB73M1" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="eclipse.pdebuild.templates" value="C:\Users\Utente\eclipse\jee-oxygen\eclipse\..\..\..\.p2\pool\plugins\org.eclipse.pde.build_3.9.300.v20170515-0912\templates" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="env.PROMPT" value="$P$G" />
+    <property name="os.name" value="Windows 10" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\classes" />
+    <property name="env.COMPUTERNAME" value="DESKTOP-2IB73M1" />
+    <property name="env.CommonProgramW6432" value="C:\Program Files\Common Files" />
+    <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="C:\Users\Utente\.p2\pool\plugins\org.apache.ant_1.10.1.v20170504-0840" />
+    <property name="java.runtime.version" value="1.8.0_144-b01" />
+    <property name="env.HOMEPATH" value="\Users\Utente" />
+    <property name="MavenHibernateFrontend.location" value="../MavenHibernateFrontend" />
+    <property name="user.name" value="Utente" />
+    <property name="user.language" value="it" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_144\jre\bin" />
+    <property name="ant.project.default-target" value="build" />
+    <property name="ant.project.name" value="MavenHibernate" />
+    <property name="java.version" value="1.8.0_144" />
+    <property name="env.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 61 Stepping 4, GenuineIntel" />
+    <property name="user.timezone" value="" />
+    <property name="env.TEMP" value="C:\Users\Utente\AppData\Local\Temp" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_144\jre\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="env.HOMEDRIVE" value="C:" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="env.VS110COMNTOOLS" value="C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\" />
+    <property name="ECLIPSE_HOME" value="../../eclipse/jee-oxygen/eclipse/" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="52.0" />
+    <property name="user.country" value="IT" />
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_144\jre" />
+    <property name="env.PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules" />
+    <property name="env.APPDATA" value="C:\Users\Utente\AppData\Roaming" />
+    <property name="env.PUBLIC" value="C:\Users\Public" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="env.ComSpec" value="C:\Windows\system32\cmd.exe" />
+    <property name="env.OS" value="Windows_NT" />
+    <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+    <property name="ant.file" value="C:\Users\Utente\eclipse-workspace\MavenHibernate\build.xml" />
+    <property name="os.version" value="10.0" />
+    <property name="env.ProgramW6432" value="C:\Program Files" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="25.144-b01" />
+    <property name="user.variant" value="" />
+    <property name="env.USERPROFILE" value="C:\Users\Utente" />
+    <property name="ant.library.dir" value="C:\Users\Utente\.p2\pool\plugins\org.apache.ant_1.10.1.v20170504-0840\lib" />
+    <property name="junit.output.dir" value="junit" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="env.TMP" value="C:\Users\Utente\AppData\Local\Temp" />
+    <property name="env.FPS_BROWSER_USER_PROFILE_STRING" value="Default" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="user.script" value="" />
+    <property name="eclipse.pdebuild.scripts" value="C:\Users\Utente\eclipse\jee-oxygen\eclipse\..\..\..\.p2\pool\plugins\org.eclipse.pde.build_3.9.300.v20170515-0912\scripts" />
+    <property name="user.home" value="C:\Users\Utente" />
+    <property name="target" value="1.5" />
+    <property name="env.ProgramData" value="C:\ProgramData" />
+    <property name="env.SESSIONNAME" value="Console" />
+    <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="env.NUMBER_OF_PROCESSORS" value="4" />
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_144\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jdk1.8.0_144/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_144/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_144/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8.0_144\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\PostgreSQL\pg93\bin;C:\Users\Utente\AppData\Local\Microsoft\WindowsApps;;C:\Windows\System32;;." />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.1 compiled on February 2 2017" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner it.fincons.academy.MavenHibernate.InsertTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\Utente\eclipse-workspace\MavenHibernate\junit\TEST-it.fincons.academy.MavenHibernate.InsertTest.xml crashfile=C:\Users\Utente\eclipse-workspace\MavenHibernate\junitvmwatcher2061762516307880180.properties propsfile=C:\Users\Utente\eclipse-workspace\MavenHibernate\junit7822283984553126985.properties" />
+    <property name="java.class.path" value="C:\Users\Utente\eclipse-workspace\MavenHibernate\target\classes;C:\Users\Utente\eclipse-workspace\MavenHibernate\target\test-classes;C:\Users\Utente\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Utente\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Utente\.m2\repository\org\hibernate\hibernate-core\5.2.10.Final\hibernate-core-5.2.10.Final.jar;C:\Users\Utente\.m2\repository\org\jboss\logging\jboss-logging\3.3.0.Final\jboss-logging-3.3.0.Final.jar;C:\Users\Utente\.m2\repository\org\hibernate\javax\persistence\hibernate-jpa-2.1-api\1.0.0.Final\hibernate-jpa-2.1-api-1.0.0.Final.jar;C:\Users\Utente\.m2\repository\org\javassist\javassist\3.20.0-GA\javassist-3.20.0-GA.jar;C:\Users\Utente\.m2\repository\antlr\antlr\2.7.7\antlr-2.7.7.jar;C:\Users\Utente\.m2\repository\org\jboss\spec\javax\transaction\jboss-transaction-api_1.2_spec\1.0.1.Final\jboss-transaction-api_1.2_spec-1.0.1.Final.jar;C:\Users\Utente\.m2\repository\org\jboss\jandex\2.0.3.Final\jandex-2.0.3.Final.jar;C:\Users\Utente\.m2\repository\com\fasterxml\classmate\1.3.0\classmate-1.3.0.jar;C:\Users\Utente\.m2\repository\dom4j\dom4j\1.6.1\dom4j-1.6.1.jar;C:\Users\Utente\.m2\repository\org\hibernate\common\hibernate-commons-annotations\5.0.1.Final\hibernate-commons-annotations-5.0.1.Final.jar;C:\Users\Utente\.m2\repository\mysql\mysql-connector-java\5.1.6\mysql-connector-java-5.1.6.jar;C:\Users\Utente\Documents\FINCONS WEB 5\Tomcat\ApacheTomcat\lib\annotations-api.jar;C:\Users\Utente\Documents\FINCONS WEB 5\Tomcat\ApacheTomcat\lib\catalina-ant.jar;C:\Users\Utente\Documents\FINCONS WEB 5\Tomcat\ApacheTomcat\lib\catalina-ha.jar;C:\Users\Utente\Documents\FINCONS WEB 5\Tomcat\ApacheTomcat\lib\catalina-tribes.jar;C:\Users\Utente\Documents\FINCONS WEB 5\Tomcat\ApacheTomcat\lib\catalina.jar;C:\Users\Utente\Documents\FINCONS WEB 5\Tomcat\ApacheTomcat\lib\ecj-4.2.2.jar;C:\Users\Utente\Documents\FINCONS WEB 5\Tomcat\ApacheTomcat\lib\el-api.jar;C:\Users\Utente\Documents\FINCONS WEB 5\Tomcat\ApacheTomcat\lib\jasper-el.jar;C:\Users\Utente\Documents\FINCONS WEB 5\Tomcat\ApacheTomcat\lib\jasper.jar;C:\Users\Utente\Documents\FINCONS WEB 5\Tomcat\ApacheTomcat\lib\jsp-api.jar;C:\Users\Utente\Documents\FINCONS WEB 5\Tomcat\ApacheTomcat\lib\servlet-api.jar;C:\Users\Utente\Documents\FINCONS WEB 5\Tomcat\ApacheTomcat\lib\tomcat-api.jar;C:\Users\Utente\Documents\FINCONS WEB 5\Tomcat\ApacheTomcat\lib\tomcat-coyote.jar;C:\Users\Utente\Documents\FINCONS WEB 5\Tomcat\ApacheTomcat\lib\tomcat-dbcp.jar;C:\Users\Utente\Documents\FINCONS WEB 5\Tomcat\ApacheTomcat\lib\tomcat-i18n-es.jar;C:\Users\Utente\Documents\FINCONS WEB 5\Tomcat\ApacheTomcat\lib\tomcat-i18n-fr.jar;C:\Users\Utente\Documents\FINCONS WEB 5\Tomcat\ApacheTomcat\lib\tomcat-i18n-ja.jar;C:\Users\Utente\Documents\FINCONS WEB 5\Tomcat\ApacheTomcat\lib\tomcat-jdbc.jar;C:\Users\Utente\Documents\FINCONS WEB 5\Tomcat\ApacheTomcat\lib\tomcat-util.jar;C:\Users\Utente\Documents\FINCONS WEB 5\Tomcat\ApacheTomcat\lib\tomcat7-websocket.jar;C:\Users\Utente\Documents\FINCONS WEB 5\Tomcat\ApacheTomcat\lib\websocket-api.jar;C:\Users\Utente\.p2\pool\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant-launcher.jar;C:\Users\Utente\.p2\pool\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant.jar;C:\Users\Utente\.p2\pool\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant-junit.jar;C:\Users\Utente\.p2\pool\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant-junit4.jar" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="env.windir" value="C:\Windows" />
+    <property name="env.LOGONSERVER" value="\\DESKTOP-2IB73M1" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="debuglevel" value="source,lines,vars" />
+    <property name="env.OneDrive" value="C:\Users\Utente\OneDrive" />
+    <property name="env.ANT_HOME" value="C:\Users\Utente\.p2\pool\plugins\org.apache.ant_1.10.1.v20170504-0840" />
+    <property name="env.ProgramFiles" value="C:\Program Files" />
+    <property name="java.io.tmpdir" value="C:\Users\Utente\AppData\Local\Temp\" />
+    <property name="env.PROCESSOR_REVISION" value="3d04" />
+    <property name="eclipse.pdebuild.home" value="C:\Users\Utente\eclipse\jee-oxygen\eclipse\..\..\..\.p2\pool\plugins\org.eclipse.pde.build_3.9.300.v20170515-0912\." />
+    <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
+    <property name="ant.file.MavenHibernate" value="C:\Users\Utente\eclipse-workspace\MavenHibernate\build.xml" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="env.SystemRoot" value="C:\Windows" />
+    <property name="env.FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer" />
+    <property name="ant.file.type.MavenHibernate" value="file" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+    <property name="env.LOCALAPPDATA" value="C:\Users\Utente\AppData\Local" />
+    <property name="user.dir" value="C:\Users\Utente\eclipse-workspace\MavenHibernate" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+    <property name="env.Path" value="C:/Program Files/Java/jdk1.8.0_144/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_144/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_144/bin/../jre/lib/amd64;C:\Program Files\Java\jdk1.8.0_144\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\PostgreSQL\pg93\bin;C:\Users\Utente\AppData\Local\Microsoft\WindowsApps;;C:\Windows\System32;" />
+    <property name="basedir" value="C:\Users\Utente\eclipse-workspace\MavenHibernate" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="ant.core.lib" value="C:\Users\Utente\.p2\pool\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant.jar" />
+    <property name="env.USERNAME" value="Utente" />
+    <property name="source" value="1.5" />
+    <property name="env.SystemDrive" value="C:" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="env.USERDOMAIN" value="DESKTOP-2IB73M1" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="ant.project.invoked-targets" value="InsertTest,junitreport" />
+    <property name="env.PROCESSOR_LEVEL" value="6" />
+  </properties>
+  <testcase classname="it.fincons.academy.MavenHibernate.InsertTest" name="testCerca" time="0.437" />
+  <testcase classname="it.fincons.academy.MavenHibernate.InsertTest" name="testInserisci" time="0.235" />
+  <system-out><![CDATA[Hibernate: select sede0_.ID_SEDE as ID_SEDE1_1_, sede0_.NOME as NOME2_1_ from sede sede0_
+Hibernate: select sede0_.ID_SEDE as ID_SEDE1_1_, sede0_.NOME as NOME2_1_ from sede sede0_
+Hibernate: select sede0_.ID_SEDE as ID_SEDE1_1_, sede0_.NOME as NOME2_1_ from sede sede0_
+Hibernate: select next_val as id_val from hibernate_sequence for update
+Hibernate: update hibernate_sequence set next_val= ? where next_val=?
+]]></system-out>
+  <system-err><![CDATA[ott 10, 2017 5:15:20 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.2.10.Final}
+ott 10, 2017 5:15:20 PM org.hibernate.cfg.Environment <clinit>
+INFO: HHH000206: hibernate.properties not found
+ott 10, 2017 5:15:20 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+ott 10, 2017 5:15:20 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+ott 10, 2017 5:15:20 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/cartellino_db?serverTimezone=UTC]
+ott 10, 2017 5:15:20 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root}
+ott 10, 2017 5:15:20 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+ott 10, 2017 5:15:20 PM org.hibernate.engine.jdbc.connections.internal.PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+ott 10, 2017 5:15:21 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+ott 10, 2017 5:15:21 PM org.hibernate.engine.jdbc.env.internal.LobCreatorBuilderImpl useContextualLobCreation
+INFO: HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+ott 10, 2017 5:15:22 PM org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl getIsolatedConnection
+INFO: HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7c209437] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+ott 10, 2017 5:15:22 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+ott 10, 2017 5:15:22 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/cartellino_db?serverTimezone=UTC]
+ott 10, 2017 5:15:22 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root}
+ott 10, 2017 5:15:22 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+ott 10, 2017 5:15:22 PM org.hibernate.engine.jdbc.connections.internal.PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+ott 10, 2017 5:15:22 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+ott 10, 2017 5:15:22 PM org.hibernate.engine.jdbc.env.internal.LobCreatorBuilderImpl useContextualLobCreation
+INFO: HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+ott 10, 2017 5:15:22 PM org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl getIsolatedConnection
+INFO: HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@51e4ccb3] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+ott 10, 2017 5:15:22 PM org.hibernate.hql.internal.QueryTranslatorFactoryInitiator initiateService
+INFO: HHH000397: Using ASTQueryTranslatorFactory
+ott 10, 2017 5:15:22 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl stop
+INFO: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/cartellino_db?serverTimezone=UTC]
+ott 10, 2017 5:15:22 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+ott 10, 2017 5:15:22 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/cartellino_db?serverTimezone=UTC]
+ott 10, 2017 5:15:22 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root}
+ott 10, 2017 5:15:22 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+ott 10, 2017 5:15:22 PM org.hibernate.engine.jdbc.connections.internal.PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+ott 10, 2017 5:15:22 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+ott 10, 2017 5:15:22 PM org.hibernate.engine.jdbc.env.internal.LobCreatorBuilderImpl useContextualLobCreation
+INFO: HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+ott 10, 2017 5:15:22 PM org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl getIsolatedConnection
+INFO: HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@437e951d] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+ott 10, 2017 5:15:23 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl configure
+WARN: HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+ott 10, 2017 5:15:23 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/cartellino_db?serverTimezone=UTC]
+ott 10, 2017 5:15:23 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001001: Connection properties: {user=root}
+ott 10, 2017 5:15:23 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl buildCreator
+INFO: HHH10001003: Autocommit mode: false
+ott 10, 2017 5:15:23 PM org.hibernate.engine.jdbc.connections.internal.PooledConnections <init>
+INFO: HHH000115: Hibernate connection pool size: 20 (min=1)
+ott 10, 2017 5:15:23 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+ott 10, 2017 5:15:23 PM org.hibernate.engine.jdbc.env.internal.LobCreatorBuilderImpl useContextualLobCreation
+INFO: HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+ott 10, 2017 5:15:23 PM org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl getIsolatedConnection
+INFO: HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@53bf7094] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+ott 10, 2017 5:15:23 PM org.hibernate.hql.internal.QueryTranslatorFactoryInitiator initiateService
+INFO: HHH000397: Using ASTQueryTranslatorFactory
+ott 10, 2017 5:15:23 PM org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl stop
+INFO: HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/cartellino_db?serverTimezone=UTC]
+ott 10, 2017 5:15:23 PM org.hibernate.hql.internal.QueryTranslatorFactoryInitiator initiateService
+INFO: HHH000397: Using ASTQueryTranslatorFactory
+]]></system-err>
+</testsuite>
